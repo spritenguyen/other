@@ -32,6 +32,17 @@ https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png", VTV5 [50fps]
 https://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
 
+#EXTINF:-1, bigo
+https://*.*.*
+#EXTINF:-1, only cat
+https://www.bigo.tv/meo12121992
+#EXTINF:-1, Như Hexi
+https://www.bigo.tv/en/callmeyourlove
+#EXTINF:-1, Vân Ruby
+https://www.bigo.tv/en/vanruby
+#EXTINF:-1, 🦁LinhCọp🦁
+https://www.bigo.tv/en/Duaxinhh_228
+
 #EXTINF:-1, bilibili -- toi
 https://*.*.*
 #EXTINF:-1, 兔叽学妹 *****
