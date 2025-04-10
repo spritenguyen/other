@@ -1,0 +1,12 @@
+// Ghi đè giá trị của biến --body-font
+document.documentElement.style.setProperty('--body-font', '"Times New Roman", serif');
+
+//Gán giá trị mới cho biến CSS qua JavaScript:
+Dùng document.documentElement.style.setProperty để thay đổi giá trị của biến.
+document.documentElement.style.setProperty('--body-font', '"Times New Roman", serif');
+
+Áp dụng font chữ mạnh mẽ với !important:
+Sử dụng JavaScript để áp dụng trực tiếp:
+document.querySelectorAll('*').forEach(element => {
+    element.style.setProperty('font-family', 'Arial, sans-serif', 'important');
+});
