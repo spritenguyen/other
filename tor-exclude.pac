@@ -1,6 +1,6 @@
 function FindProxyForURL(url, host) {
     // Nếu là vnexpress.net hoặc youtube.com, kết nối trực tiếp
-    if (shExpMatch(host, "vnexpress.net") || shExpMatch(host, "*.youtube.com")) {
+    if (shExpMatch(host, "ipleak.net") || shExpMatch(host, "m.youtube.com")) {
         return "DIRECT";
     }
 
